@@ -10,10 +10,10 @@ export default function Home() {
 
       <div className="flex flex-col md:flex-row items-stretch p-8  bg-white h-screen">
         <div className="md:flex-shrink-0 mb-8 md:mb-0 md:mr-8 flex flex-col justify-center">
-          <h1 className="text-4xl font-bold text-purple-900 dark:font-semibold  pt-12  mb-4 md:pl-24">
+          <h1 className="text-4xl font-bold text-purple-900 dark:font-semibold  pt-32  mb-4 md:pl-24">
             Changespark Foundation
           </h1>
-          <p className="text-xl text-green-700 dark:font-semibold md:pl-24">
+          <p className="text-xl text-green-700 dark:font-semibold pb-10 md:pl-24">
             EMPOWERING POWER IGNITING CHANGE
           </p>
         </div>
